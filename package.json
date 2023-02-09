@@ -1,0 +1,28 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casta92/AsincronismoJS.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Asincronismo"
+  ],
+  "author": "Andres Fe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Casta92/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/Casta92/AsincronismoJS#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
